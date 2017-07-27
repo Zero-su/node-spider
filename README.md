@@ -1,5 +1,5 @@
 # node-spider
-node 爬虫
+node+superagent+cheerio
 
 运行：
 ```js
